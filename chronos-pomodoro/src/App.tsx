@@ -8,7 +8,9 @@ export function App() {
   return (
     <>
       {' '}
-      <Heading />
+      <Heading attr={123} attr2='String'>
+        OI
+      </Heading>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis
         adipisci fuga quo nostrum, harum, quisquam suscipit libero aspernatur
